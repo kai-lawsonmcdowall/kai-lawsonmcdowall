@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kai Lawson-McDowall
 
-- 👀 Right now, I’m interested in projects around statistics and bioinformatics. In particular, I'll be starting a project which will focus on applying machine learning to see if I can update or improve some cancer models. In the  more immediate future, I'm hoping to develop a pipeline to check model assumptions of linear regression models and their data! 
+- 👀 Right now, I’m interested in projects around statistics and bioinformatics. In particular, I'm trying to rebuild my knowledge of python and it's role in bioinformatics
 
-- 🌱 I’m mainly focusing on the use of R at the moment, but am also working with Python and Bash
+- 🌱 My main background is in R, but I'm also comfortable with Bash and Python. 
 
 - 📫 How to reach me: Drop me an email, at klawsonmcdowall@gmail.com
 
