@@ -4,7 +4,7 @@
 
 - 🌱 My main background is in R, but I'm also comfortable with Bash and Python. 
 
-- 📫 How to reach me: Drop me an email, at klawsonmcdowall@gmail.com
+- 📫 How to reach me: Drop me an email, at klawsonmcdowall@gmail.com! 
 
 <!---
 kai-lawsonmcdowall/kai-lawsonmcdowall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
