@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Kai Lawson-McDowall
 
-- 👀 Right now, I’m interested in projects around statistics and bioinformatics. In particular, I'm trying to rebuild my knowledge of python and it's role in bioinformatics
+- 👀 Right now, I'm a bioinformatician and software engineer at Broken Strings Biosciences in Cambridge, England. my main focus is using data science and ML as of late to understand the double-strand break landscape of the genome. 
 
-- 🌱 My main background is in R, but I'm also comfortable with Bash and Python. 
+- 🌱 Comfortable with R, Python and Linux, and hoping to branch out more into machine learning. 
 
-- 📫 How to reach me: Drop me an email, at klawsonmcdowall@gmail.com! 
+- 📫 How to reach me: Drop me an email for any personal inquiries at klawsonmcdowall@gmail.com
 
 <!---
 kai-lawsonmcdowall/kai-lawsonmcdowall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
