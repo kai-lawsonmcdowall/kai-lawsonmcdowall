@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kai Lawson-McDowall
 
-- 👀 Right now, I'm a bioinformatician and software engineer at Broken Strings Biosciences in Cambridge, England. my main focus is using data science and ML as of late to understand the double-strand break landscape of the genome. 
+- 👀 Right now, I'm a bioinformatician and software engineer at Sonrai Analytics in Belfast, Nothern Ireland, However, I'm based in Cambridge, England. my main focus is using data science and ML as of late to faciliate and accelerate biomarker discovery. 
 
 - 🌱 Comfortable with R, Python and Linux, and hoping to branch out more into machine learning. 
 
