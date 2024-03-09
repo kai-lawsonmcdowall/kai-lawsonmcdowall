@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kai-lawsonmcdowall&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kai-lawsonmcdowall&theme=highcontrast)](https://git.io/streak-stats)
