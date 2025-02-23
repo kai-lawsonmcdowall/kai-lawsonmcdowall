@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kai Lawson-McDowall
 
-- 👀 Right now, I'm a bioinformatician and software engineer at Sonrai Analytics in Belfast, Nothern Ireland, However, I'm based in Cambridge, England. my main focus is using data science and ML as of late to faciliate and accelerate biomarker discovery. 
+- 👀 Right now, I'm a bioinformatician and software engineer at Sonrai Analytics in Belfast, Nothern Ireland, However, I'm based in Cambridge, England. my main focus is using data science and ML as of late to faciliate and accelerate biomarker discovery, as well as build, debug and maintain their high-throughput bioinformatics pipelines. 
 
-- 🌱 Comfortable with R, Python, NextFlow, Cloud computing (AWS), and Linux, and hoping to branch out more into machine learning. 
+- 🌱 Comfortable with R, Python, NextFlow, Cloud computing (AWS), and Linux, and branching out more into Machine Learning
 
 - 📫 How to reach me: Drop me an email for any personal inquiries at klawsonmcdowall@gmail.com
 
